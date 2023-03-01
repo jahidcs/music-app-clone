@@ -123,6 +123,13 @@ const _lofihiphopMusic = [
     album: 'Evermore',
     duration: '2:31',
   ),
+  Song(
+    id: '12',
+    title: 'Aniket Prantor',
+    artist: 'Artcell',
+    album: 'Unknown',
+    duration: '16:00',
+  ),
 ];
 
 class Playlist {
